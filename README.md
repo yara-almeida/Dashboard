@@ -2,7 +2,7 @@
   
   # Dashboard Responsivo
 
-  ## Feito utilizando as seguintes tecnologias: <a href="https://react.dev/">ReactJS</a>, <a href="https://nextjs.org/">NextJS</a>, <a href="https://ui.shadcn.com/">Shadcn/UI</a>, <a href="https://recharts.org/en-US/">Recharts</a> e <a href="https://tailwindcss.com/">Tailwind</a>.
+  ## Feito utilizando as seguintes tecnologias: <a href="https://www.typescriptlang.org/">TypeScript</a>, <a href="https://react.dev/">ReactJS</a>, <a href="https://nextjs.org/">NextJS</a>, <a href="https://ui.shadcn.com/">Shadcn/UI</a>, <a href="https://recharts.org/en-US/">Recharts</a> e <a href="https://tailwindcss.com/">Tailwind</a>.
 
   <br>
   <br>
